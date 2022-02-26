@@ -1,0 +1,513 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland's tears to the sacred memory of our late dread soveraign King Charles II.</title>
+            <author>Hewetson, Michael, 1643-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70336</idno>
+            <idno type="STC">Wing I1026</idno>
+            <idno type="STC">ESTC R10005</idno>
+            <idno type="EEBO-CITATION">13285941</idno>
+            <idno type="OCLC">ocm 13285941</idno>
+            <idno type="VID">98804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:2 or 1689:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland's tears to the sacred memory of our late dread soveraign King Charles II.</title>
+                  <author>Hewetson, Michael, 1643-1724.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nath. Thompson ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Assigned to Hewetson by Hazlitt.</note>
+                  <note>In verse.</note>
+                  <note>This item can be found at reels 459:2 and 1689:22.</note>
+                  <note>Item at reel 1689:22 incorrectly identified as Wing H1630B.</note>
+                  <note>Reproduction of original in Huntington Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98804:1"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:98804:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <head>IRELAND'S TEARS.</head>
+            <head type="sub">TO THE Sacred Memory Of our late Dread Soveraign King CHARLES II.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>AS diſtant Thunder in a rowling Cloud,</l>
+               <l>Firſt Murmures inwardly, then Roars aloud</l>
+               <l>O're the amazed liſt'ning Crowd;</l>
+               <l>Till the Dread Clap ſcares ev'ry Mortal Ear;</l>
+               <l>Too weak Heav'ns angry voice to bear:</l>
+               <l>Such was the ſad aſtoniſhing News</l>
+               <l>Which <hi>February</hi>'s 6<hi rend="sup">th.</hi> 
+                  <hi>Idea's</hi> did bring;</l>
+               <l>The Dangerous Sickneſs of our Deareſt KING!</l>
+               <l>It ſtun'd all Ears, and did all Minds amuſe;</l>
+               <l>All the ſad Tydings ſo bemoan,</l>
+               <l>As if 'twere not His Sickneſs, but their Own.</l>
+               <l>Trembling, and full of Fear we wait</l>
+               <l>To know what the next Meſſenger will ſay;</l>
+               <l>And all the while we Weep, and all the while we Pray.</l>
+               <l>When ſuddenly Death's Herald ſpoke the Dreadful Fate—</l>
+               <l>Alas! the Miſerable Day!</l>
+               <l>The News too ſad to Hear, too Killing to Repeat.</l>
+            </lg>
+            <lg n="2">
+               <pb n="2" facs="tcp:98804:2"/>
+               <!-- PDF PAGE 69 -->
+               <head>II.</head>
+               <l>Horrour and Cryes fill all around:</l>
+               <l>Diſtracted Looks, and Throbbing Hearts,</l>
+               <l>As if 'twere the laſt Trumpets ſound,</l>
+               <l>In ev'ry place are found;</l>
+               <l>And hideous Groans do Eccho from all parts.</l>
+               <l>Frighted with what I ſaw, and heard;</l>
+               <l>But much more with what I fear'd:</l>
+               <l>The blaſted City ſoon I left.</l>
+               <l>And as of <hi>Reaſon</hi> quite bereft,</l>
+               <l>I wildly roam'd about to ſeek ſome place</l>
+               <l>Leſs Doleful than the City was;</l>
+               <l>Where without Partners, or Lookers on</l>
+               <l>I might Enjoy my Grief alone:</l>
+               <l>And for a little ſpace</l>
+               <l>Might lay the weighty Burden of my Sorrow down.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>And long I had not rov'd about,</l>
+               <l>E're an approv'd Retirement I found out;</l>
+               <l>Ruins, that to Religion Sacred were of Yore;</l>
+               <l>Nor now leſs Venerable than heretofore:</l>
+               <l>Where all things did my Melancholly Fancy pleaſe;</l>
+               <l>Murmuring Waters, awful Cliffs, and Wither'd Trees:</l>
+               <l>There Cheerful Birds ne're Sing, nor e're blows Gentle Breeze:</l>
+               <l>Nor any Beaſt, or Humane Face</l>
+               <l>Was to be ſeen upon the lonely Place.</l>
+               <l>To this Forlorn and Uncouth ſeat,</l>
+               <l>Well ſuited to my Troubled ſtate,</l>
+               <l>I ſoftly with my load of Grief retreat:</l>
+               <l>Where each Rock and ev'ry Tree</l>
+               <l>Wou'd, (I knew,) Condole with me;</l>
+               <l>Only ſtearn Fate would un-relenting be.</l>
+               <l>Thus then with many a Tear and Groan,</l>
+               <l>My Dead Prince I did bemoan.</l>
+            </lg>
+            <lg n="4">
+               <pb n="3" facs="tcp:98804:2"/>
+               <!-- PDF PAGE 69 -->
+               <head>IV.</head>
+               <l>
+                  <hi>CHARLES,</hi> the Clement, and the Good!</l>
+               <l>
+                  <hi>CHARLES,</hi> the Flow'r of Princely Blood!</l>
+               <l>Of all we Earthly Gods do call,</l>
+               <l>
+                  <hi>CHARLES,</hi> the moſt Belov'd of all!</l>
+               <l>Our Heart's Delight, Joy of our Eyes;</l>
+               <l>And whom not we alone did prize,</l>
+               <l>Through the whole Univerſe his Glory flies.</l>
+               <l>Ev'n Nations Strangers to our Faith and God,</l>
+               <l>Heard of His Fame,</l>
+               <l>Rever'd His Name,</l>
+               <l>And <hi>Eaſtern</hi> Princes Dazled with his bright Renown,</l>
+               <l>Which did ſo much Eclipſe their own,</l>
+               <l>Sent their <hi>Embaſſadors</hi> Abroad</l>
+               <l>To Court the Favour of this Second <hi>Solomon.</hi>
+               </l>
+               <l>Of him to learn the Royal Art</l>
+               <l>To Govern, and ſecure the Peoples Heart:</l>
+               <l>While <hi>Chriſtendom</hi> in ev'ry weighty All</l>
+               <l>Did to his well-known Juſtice ſtill Appeal,</l>
+               <l>Whoſe Word and Wiſdom ever turn'd the Scale.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>He that can tell the drops o<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Which on an <hi>April</hi> day do fall,</l>
+               <l>(Or his ſad Subjects Tears can count,</l>
+               <l>Which to a greater number mount;)</l>
+               <l>May reckon up the Graces, but not all,</l>
+               <l>(For that Eſſay would be in vain,)</l>
+               <l>Which did adorn his Life and Glorious Reign:</l>
+               <l>For who will e're Attempt to tell</l>
+               <l>Things that are unexpreſſible?</l>
+               <l>Great Lord of Wit, Patron of Arts he was,</l>
+               <l>Learning's ſtrong <hi>Atlas,</hi> Poetry's beſt Friend;</l>
+               <l>Crown'd with each Ray, and Bleſt with ev'ry Grace,</l>
+               <l>That could a Prince, or make, or recommend.</l>
+               <l>But if in any one he could and did Himſelf Excel,</l>
+               <l>'Twas that of <hi>Clemency!</hi>
+               </l>
+               <l>Herein he was Heav'ns Parallel.</l>
+               <l>Nay (be't with Rev'rence ſpoke) He Heav'n out-went,</l>
+               <l>In Pard'ning the Impenitent—</l>
+               <l>Is Heav'n it ſelf ſo Merciful as He?</l>
+            </lg>
+            <lg n="6">
+               <pb n="4" facs="tcp:98804:3"/>
+               <!-- PDF PAGE 70 -->
+               <head>VI.</head>
+               <l>But as Ten Thouſand ſcatter'd Rayes</l>
+               <l>By Art are made to Center in one Glaſs;</l>
+               <l>So all the Tenderneſs and Love</l>
+               <l>Which in his Heart did towards all his Subjects move,</l>
+               <l>Firſt on His Royal Brother fell, and through Him did paſs.</l>
+               <l>Not fearing loſs of <hi>Empire,</hi> or of Life,</l>
+               <l>When High-born <hi>JAMES</hi>'s Foes were rife,</l>
+               <l>When ſawcy, Factious Senates menac'd high,</l>
+               <l>And bluſh'd not to Decry</l>
+               <l>The <hi>Crown</hi>'s Juſt Heir and Trueſt Friend to <hi>Monarchy;</hi>
+               </l>
+               <l>Our King cloſe to His Brothers Intereſt ſtood,</l>
+               <l>And ſtem'd the Impetuous Flood.</l>
+               <l>To the Damn'd Project ſoon he put an end,</l>
+               <l>And ſhew'd Himſelf not more a <hi>Monarch</hi> than a Friend.</l>
+               <l>Friendſhip like This the World did never know,</l>
+               <l>Save what the King of Heav'n did ſhow,</l>
+               <l>Who, for our ſakes, deſcending here below,</l>
+               <l>Ceas'd to be Happy, that we might be ſo.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>How Dear to Heav'n its Champion was, our Prince,</l>
+               <l>(Who did ſo well Defend the <hi>Crown</hi>
+               </l>
+               <l>And Faith which He receiv'd from thence,</l>
+               <l>Still valuing the <hi>Publick-Weal,</hi> more than His own;)</l>
+               <l>Let the long Chain of Miracles convince,</l>
+               <l>Which, Maugre all the oppoſition</l>
+               <l>Of Fiends, and Fiend-like Men combin'd in one;</l>
+               <l>Deſtin'd him for, and Brought him to, and kept him on his <hi>Throne.</hi>
+               </l>
+               <l>Witneſs that ſhining <hi>Herald,</hi> ſent</l>
+               <l>To tell the World of His Illuſtrious <hi>Birth.</hi>
+               </l>
+               <l>As if Heav'n had hereby meant—</l>
+               <l>
+                  <hi>Another God is Born on Earth!</hi>
+               </l>
+               <l>At Noon we ſaw the New-born <hi>Star</hi>
+               </l>
+               <l>Shine on his Infant Brother here,</l>
+               <l>With a Mild <hi>Aſpect,</hi> yet ſo Bright and Clear,</l>
+               <l>As did out-vie the Mid-day <hi>Sun,</hi>
+               </l>
+               <l>As far as He Himſelf all other Kings has done.</l>
+            </lg>
+            <lg n="8">
+               <pb n="5" facs="tcp:98804:3"/>
+               <!-- PDF PAGE 70 -->
+               <head>VIII.</head>
+               <l>And when Rebellion Black and Dire</l>
+               <l>Had haraſs'd long his God-like <hi>Sire;</hi>
+               </l>
+               <l>Whoſe Life it Barbarouſly took away,</l>
+               <l>Of all things Great and Holy made a Prey,</l>
+               <l>And turn'd three Kingdoms into One <hi>Aceldama;</hi>
+               </l>
+               <l>Our late (Ah wretched word!) Heav'n-lov'd King,</l>
+               <l>Kind Providence did wondrouſly convey,</l>
+               <l>And ſheltred Him beneath its wing,</l>
+               <l>From all the Ills which War, and Chance,</l>
+               <l>And <hi>Treaſons</hi> blacker than the Night,</l>
+               <l>Did 'gainſt his Sacred Life advance.</l>
+               <l>Witneſs his Happy 'ſcape from <hi>Wor'ſter</hi>'s Bloody-Fight:</l>
+               <l>Where Hov'ring Angels with their Mighty Shield</l>
+               <l>Sav'd Him from all the Hazards of that Dreadful Field:</l>
+               <l>And their important Charge, by ways unknown, convey'd</l>
+               <l>T' a Neighb'ring Friendly ſhade,</l>
+               <l>Where ſturdy Oaks ſtretch'd out their Arms on high,</l>
+               <l>(Oh ſhame to Mans Barbarity!)</l>
+               <l>To Receive, and ſhelter Diſtreſs'd Majeſty.</l>
+               <l>Witneſs, O <hi>Boſcobel,</hi> thy Monumental Tree!</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>From Thence through Dangers numberleſs,</l>
+               <l>In mighty Wants, and deep Diſtreſs</l>
+               <l>At Home, Abroad, by Land and Seas,</l>
+               <l>(As once his High-fam'd Anceſtor, the wandriug <hi>Trojan</hi> Prince)</l>
+               <l>By many a wondrous Providence,</l>
+               <l>During his Nine Years Exile hence,</l>
+               <l>Heav'n its Regard of Him did Evidence,</l>
+               <l>When the Almighty King to ſhew-his care</l>
+               <l>Of ſuch as his Vicegerents are;</l>
+               <l>When Humane Force could do no more; And when</l>
+               <l>Our dying Hopes cou'd ebb no lower;</l>
+               <l>Did by a Turn, Miraculous Reſtore</l>
+               <l>Our King to Us, Us to our King again.</l>
+               <l>To bring which Bleſſed work to paſs,</l>
+               <l>Neither Man's Power, nor Policy had place;</l>
+               <l>No Contract made, nor Blows were given;</l>
+               <l>But the aſtoniſh'd World ſaw 'twas</l>
+               <l>The ſtupendious work of Heaven!</l>
+            </lg>
+            <lg n="10">
+               <pb n="6" facs="tcp:98804:4"/>
+               <!-- PDF PAGE 71 -->
+               <head>X.</head>
+               <l>So Great a <hi>Monarch,</hi> and ſo Glorious,</l>
+               <l>So much Belov'd at Home, and Fear'd Abroad;</l>
+               <l>(Much too Good alaſs! for Us:</l>
+               <l>Wiſe as an Angel, Generous as a God—</l>
+               <l>Though calmly Settled on a Lofty Throne,</l>
+               <l>Was not above the Reach of Envious Lookers on:</l>
+               <l>Which made him ſtand in need of Heav'ns high Patronage;</l>
+               <l>(And what he needed, he ſtill had,)</l>
+               <l>To Save his <hi>Crown</hi> and <hi>Perſon</hi> from the Rage</l>
+               <l>Of Men (with too much Eaſe) gone Mad.</l>
+               <l>Witneſs thoſe <hi>Plots,</hi> the <hi>Faction</hi>'s fruitful womb</l>
+               <l>So oft Conceiv'd, tho ſtill in vain,</l>
+               <l>Againſt their Gracious Sovereign:</l>
+               <l>(Where ſometimes the Diſcoverer</l>
+               <l>Play'd both the Devil and the Conjurer:)</l>
+               <l>Which being by Heav'ns great care Abortive ſtill become,</l>
+               <l>They added to the Wonders of his Reign:</l>
+               <l>And made his Throne as fix'd and Glorious, as <hi>Wain.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>When lo! the Prince who ſeem'd Heav'ns chief Delight,</l>
+               <l>Its Darling and Prime Favourite,</l>
+               <l>His <hi>Mid-day Glory</hi>'s all full Blown—</l>
+               <l>How ſtrangely are they Blaſted, Ah! how ſoon!</l>
+               <l>But what Heav'n rais'd, Heav'n only can pull down.</l>
+               <l>Down low as Eearth, this Son of the moſt High is come;</l>
+               <l>And all his ſcatter'd Trophies ſerve, but to adorn his Tomb.</l>
+               <l>But why! no Prodigy at all?</l>
+               <l>No Beacon-<hi>Comet</hi> fir'd above?</l>
+               <l>(No <hi>Monſtrous Births,</hi> no <hi>Storms,</hi> no <hi>Whale,</hi>
+               </l>
+               <l>Or to Preſage, Great KING thy Fall,</l>
+               <l>Or to attend thy Funeral?)</l>
+               <l>Which Nature's fright might ſhew, and Mankind's wonder move.</l>
+               <l>Why (ſeeing a wondrous Star Proclaim'd his Birth,)</l>
+               <l>Did not as Wondrous an Eclipſe foretel his leaving Earth?</l>
+               <l>Muſt God-like KINGS like Puny Mortals die?</l>
+               <l>Muſt <hi>CHARLES</hi> the moſt <hi>Auguſt</hi>—</l>
+               <l>Be meanly crumbled like <hi>Plebeian</hi> Duſt?</l>
+               <l>VVhy deal'ſt thou with th' Anointed, O King of Princes! why?</l>
+            </lg>
+            <lg n="12">
+               <pb n="7" facs="tcp:98804:4"/>
+               <!-- PDF PAGE 71 -->
+               <head>XII.</head>
+               <l>But while thus Ravingly I ſpoke,</l>
+               <l>VVith a ſtrange Horrour I was ſtruck,</l>
+               <l>VVhich dim'd my Eyes, looſen'd my Joynts, and chill'd my Bloud,</l>
+               <l>Before me ſtraight a Viſionary ſomewhat ſtood;</l>
+               <l>VVhoſe Form I could not well diſcern;</l>
+               <l>The <hi>Genius,</hi> likely, of the place,</l>
+               <l>Or ſome ſuch Airy Image 'twas;</l>
+               <l>Of Stature high, Clad in Blue miſts, Its Viſage ſtern:</l>
+               <l>VVhich with an angry Hallow Tone</l>
+               <l>Thus ſtop'd me—</l>
+               <l>"Shall Mortal wight dare to reprove,</l>
+               <l>"Or prie into the things above?</l>
+               <l>"The Prince whoſe Death you ſo bemoan,</l>
+               <l>"VVas he not th' Almighties Loan?</l>
+               <l>"VVho only has took what was his own.</l>
+               <l>"His Awful Meen, and Heavenly Eyes,</l>
+               <l>"VVhich made all Hearts his Votaries;</l>
+               <l>"His Soul ſo Soft, yet truly Great,</l>
+               <l>"His Mind ſo clear, and ſo Sedate,</l>
+               <l>"Prov'd well his Extract from the Skies.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>VVith Milder accent, and Genteeler look,</l>
+               <l>The Spright, (leſs Frightful now,) thus farther ſpoke.</l>
+               <l>"Then if your much-Lamented King</l>
+               <l>"So Good and Amiable was;</l>
+               <l>"VVhy wou'd you have ſome dreadful thing</l>
+               <l>"The ſmoothneſs of his Reign deface?</l>
+               <l>"Let Tyrants and Uſurpers have</l>
+               <l>"<hi>Sea-Monſters,</hi> and Rough <hi>Hurricanes</hi>
+               </l>
+               <l>"Foretel their Death, and dig their Grave,</l>
+               <l>"Such Prodigies ſuit well their Reigns:</l>
+               <l>"<hi>Comets</hi> have ſtill a noiſy end,</l>
+               <l>"VVhen calmly does the <hi>Sun</hi> deſcend.</l>
+               <l>"Or if you muſt have Prodigies,</l>
+               <l>"Think of the Millions of VVeeping Eyes,</l>
+               <l>"The Trueſt kind of <hi>Elegies;</hi>
+               </l>
+               <l>"Or elſe let This be reckon'd one,</l>
+               <l>"That 'tis a Prodigy—<hi>That you have none.</hi>
+               </l>
+               <l>"In <hi>Halcyon</hi>-days you Dove like-Prince was born,</l>
+               <l>"VVhich did with him return;</l>
+               <l>"His Realms five Luſters have Peace's white Livery worn;</l>
+               <l>"Living, He Peace beſtow'd on ev'ry ſide,</l>
+               <l>"Kept all in Peace, and Peaceably He Dy'd.</l>
+            </lg>
+            <lg n="14">
+               <pb n="8" facs="tcp:98804:5"/>
+               <!-- PDF PAGE 72 -->
+               <head>XIV.</head>
+               <l>It ſcarce had ſpoke; when, Lo! a ſudden Thunder</l>
+               <l>(For ſuch at firſt it did appear)</l>
+               <l>Shak'd the Thin Ghoſt aſunder;</l>
+               <l>Which ſtrait diſſolv'd into its Primitive Air.</l>
+               <l>From the cold Turf I quickly rais'd my Head,</l>
+               <l>Left there my Load of Grief, and to the, Town for ſhelter ſled;</l>
+               <l>E're (as I thought) the Storm ſhould fall upon my Head.</l>
+               <l>The City ſoon I reach'd, help'd with the wings of Fear:</l>
+               <l>But my old Grief and Fright ſoon chang'd into new Dread and Wonder</l>
+               <l>When, what I took for Thunders noiſe,</l>
+               <l>A ſecond Peal inform'd me was the <hi>Canon</hi>'s roaring voice;</l>
+               <l>Which led me to a <hi>Loyal Crowd</hi>
+               </l>
+               <l>That with Great Triumph did Proclaim,</l>
+               <l>With Joyful Shouts and Acclamations Loud,</l>
+               <l>A new <hi>Kings Title,</hi> and <hi>Imperial Name.</hi>
+               </l>
+               <l>Amaz'd at This ſo eaſie Change, I ſaid,</l>
+               <l>May this Prodigious Shout ſtrike all His Enemies dead—</l>
+               <l>Long, and as this Day Peaceful be his Reign,</l>
+               <l>And may His God-like Brother live in Him again,</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>
+                  <hi>Poets</hi> of old, were <hi>Prophets,</hi> deem'd;</l>
+               <l>And if They now were ſuch eſteem'd,</l>
+               <l>(And who knows but they may?)</l>
+               <l>If our Predicting Rhimes</l>
+               <l>May lucky <hi>Omens</hi> prove to after Times,</l>
+               <l>And, that ſome Good may be preſag'd from <hi>Names;</hi>
+               </l>
+               <l>Then would I boldly ſay</l>
+               <l>Theſe Reams are doubly bleſt in that of <hi>JAMES.</hi>
+               </l>
+               <l>
+                  <hi>Great Britain</hi>'s Glory did Commence</l>
+               <l>When the Firſt <hi>JAMES</hi> did to the whole give Law:</l>
+               <l>He Joyn'd the Kingdoms, and deriv'd from thence</l>
+               <l>That long white Row of Peaceful years our Happy Fathers ſaw.</l>
+               <l>The Second <hi>JAMES</hi> by Heaven's Decree</l>
+               <l>Will the great Healer of our Breaches be,</l>
+               <l>And as His Wiſdom does already give our Fears Relief,</l>
+               <l>So will His Mercy ſuddenly Cure all our Publick Grief.</l>
+               <l>Well-skill'd He is in all His Royal Grandſires Arts,</l>
+               <l>Who join'd both <hi>Crowns,</hi> as He will do all Hearts.</l>
+               <l>May Heaven fulfil, and own the Propheſie;</l>
+               <l>But <hi>Ireland,</hi> ſure, above the reſt</l>
+               <l>In that Auſpicicious Name is doubly bleſt:</l>
+               <l>For while the Royal <hi>JAMES</hi> the <hi>Engliſh</hi> Crown does wear,</l>
+               <l>And <hi>Ormond</hi>'s Noble <hi>JAMES</hi> remains His <hi>Vice-Roy</hi> here,</l>
+               <l>
+                  <hi>IRELAND</hi> will ne're again know cauſe of Publick Grief, or Fear.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Nath. Thompſon,</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> 1685.</p>
+            <pb facs="tcp:98804:5"/>
+            <!-- PDF PAGE 72 -->
+         </div>
+      </back>
+   </text>
+</TEI>
